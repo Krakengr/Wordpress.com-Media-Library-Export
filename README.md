@@ -1,4 +1,4 @@
-# Wordpress.com-Media-Library-Export
+# Wordpress.com Media Library Export
 Download Your Entire WordPress.com Media Library
 
 With this simple script, you can download your media library from your blog at wordpress.com to your PC.
