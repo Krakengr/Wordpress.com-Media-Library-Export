@@ -99,6 +99,8 @@ foreach($xml->channel->item as $item)
 	
 }
 
+//We can now tell that it's done
+echo '<br />All done. Your library has been downloaded.<br />';
 ########################################################################################
 //
 //
