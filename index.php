@@ -1,7 +1,7 @@
 <?php
 /*
  * Wordpress.com Media Library Export
- * https://g3ar.xyz/projects/download-your-entire-wordpress-com-media-library/
+ * https://homebrewgr.info/en/projects/script-download-your-entire-wordpresscom-media-library/
  * Author Kraken
 
  * This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
