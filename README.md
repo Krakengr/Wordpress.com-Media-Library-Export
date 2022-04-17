@@ -10,4 +10,4 @@ Edit the file with a text editor, enter the filename of the Media xml file you e
 eg http://localhost/index.php
 
 More info can be found here:
-https://homebrewgr.info/en/projects/script-download-your-entire-wordpresscom-media-library/
+https://badtooth.studio/script-download-your-entire-wordpresscom-media-library/
